@@ -64,6 +64,7 @@ Want to track your own reading journey? Make a copy of this template:
 Hi! I'm **Shambhavi** — passionate about books, data, and creating things that combine both. This tracker is a personal project that grew from my love for reading and learning data visualization.
 
 - 🌐 GitHub: [@buildwithshambhavi](https://github.com/buildwithshambhavi)
+- LinkedIn: https://www.linkedin.com/in/shambhavi-singh-da/
 
 ---
 
